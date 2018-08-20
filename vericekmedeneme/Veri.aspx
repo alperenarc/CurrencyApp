@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Döviz,Dolar,Altın,Euro,Ekonomi,haberler,KaçLira,Amerika,Trump,Almanya,Erdoğan,Türkiye,Bitcoin,Borsa,sterlin,ceyrek,fiyat,tamaltın,sondurum,dovizsondurum">
     <meta name="author" content="">
-    <title>Döviz Son Durum</title>
+    <title>Dövi Son Durum</title>
 
     <!-- Bootstrap CSS -->
     <link href="AppLayers/css/bootstrap.min.css" rel="stylesheet">
